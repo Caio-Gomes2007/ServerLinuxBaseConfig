@@ -5,10 +5,10 @@
 
 #criando pastas necessarias
 
-mkdir music
-mkdir Github
-mkdir SelfGit
-mkdir DeveloperFiles
+mkdir ~/music
+mkdir ~/Github
+mkdir ~/SelfGit
+mkdir ~/DeveloperFiles
 
 # installs nvm (Node Version Manager)
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
